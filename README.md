@@ -12,10 +12,9 @@ Dalam project ini, saya mengimplementasikan:
 Fitur
 - Home Page: Halaman utama yang menyajikan informasi umum.
 - About Page: Halaman tentang saya atau deskripsi website.
-- Contact Page: Halaman kontak dengan formulir sederhana.
+- Service Page: Halaman kontak dengan formulir sederhana.
 - Responsiveness: Desain yang responsif untuk berbagai ukuran layar.
-- Interactivity: Interaksi dasar menggunakan JavaScript, seperti validasi formulir dan manipulasi DOM.
-- 
+
 Teknologi yang Digunakan
 - HTML5
 - CSS3
