@@ -7,13 +7,7 @@ Dalam project ini, saya mengimplementasikan:
 - Struktur HTML yang semantik.
 - Styling dengan CSS yang responsif.
 - Interaksi dasar menggunakan JavaScript.
-- Tujuan utama dari project ini adalah untuk menguasai dasar-dasar pengembangan web dan mempersiapkan diri untuk topik yang lebih lanjut.
-
-Fitur
-- Home Page: Halaman utama yang menyajikan informasi umum.
-- About Page: Halaman tentang saya atau deskripsi website.
-- Service Page: Halaman kontak dengan formulir sederhana.
-- Responsiveness: Desain yang responsif untuk berbagai ukuran layar.
+Tujuan utama dari project ini adalah untuk menguasai dasar-dasar pengembangan web dan mempersiapkan diri untuk topik yang lebih lanjut.
 
 Teknologi yang Digunakan
 - HTML5
